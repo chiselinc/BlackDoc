@@ -2,6 +2,8 @@
 
 ![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
 
+View Demo: [BlackDoc Theme](https://robert-zacchigna.github.io/BlackDoc/)
+
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
 
 ![BlackDoc screenshot](https://raw.githubusercontent.com/karloespiritu/blackdoc/master/public/images/blackdoc-screenshot.jpg)
@@ -54,6 +56,8 @@ Build and run your BlackDoc site.
 ```bash
 $ jekyll serve
 ```
+
+> **NOTE:** This theme is designed to specifically run using GitHub Pages and thus will not run locally, to run this site locally use the [BlackDoc-Local branch](https://github.com/Robert-Zacchigna/BlackDoc/tree/BlackDoc-Local)
 
 ## Usage
 
