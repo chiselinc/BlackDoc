@@ -57,7 +57,7 @@ Build and run your BlackDoc site.
 $ jekyll serve
 ```
 
-> **NOTE:** This theme is designed to specifically run using GitHub Pages and thus will not run locally, to run this site locally use the [BlackDoc-Local branch](https://github.com/Robert-Zacchigna/BlackDoc/tree/BlackDoc-Local)
+> **NOTE:** This theme is designed to specifically run using GitHub Pages and thus will not run correctly when run locally, to run this site locally use the [BlackDoc-Local](https://github.com/Robert-Zacchigna/BlackDoc/tree/BlackDoc-Local) branch
 
 ## Usage
 
