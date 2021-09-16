@@ -1,4 +1,4 @@
-# BlackDoc
+# BlackDoc (Local)
 
 ![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
 
@@ -54,6 +54,8 @@ Build and run your BlackDoc site.
 ```bash
 $ jekyll serve
 ```
+
+>**NOTE:** If you want to use this theme as a GitHub Page you need use the [master branch](https://github.com/Robert-Zacchigna/BlackDoc) instead, this version is only for running the site locally.
 
 ## Usage
 
