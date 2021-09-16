@@ -1,19 +1,22 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
+remote_theme:     Robert-Zacchigna/BlackDoc
 
 # Setup
 title:            BlackDoc
 tagline:          Black Theme for Jekyll
 description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/karloespiritu/blackdoc
-baseurl:          /BlackDoc/
+url:              https://github.com/Robert-Zacchigna/BlackDoc
+baseurl:          "/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
 
+timezone: America/Chicago
+
 author:
-  name:           Karlo Espiritu
-  url:            https://twitter.com/karloespiritu
+  name:           Robert Zacchigna
+  url:            https://github.com/Robert-Zacchigna/
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -25,7 +28,8 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            2.0.1
+version:            2.0.0
 
 github:
-  repo:             https://github.com/karloespiritu/blackdoc
+  repo:             https://github.com/Robert-Zacchigna/BlackDoc
+
