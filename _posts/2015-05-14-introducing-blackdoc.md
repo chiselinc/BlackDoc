@@ -6,7 +6,7 @@ title: Introducing BlackDoc
 BlackDoc is a two-column [Jekyll](http://jekyllrb.com){:target="_blank"} theme that's ideal for websites that require a 
 master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com){:target="_blank"}, the Jekyll butler, and the [Hyde](http://hyde.getpoole.com){:target="_blank"} theme.
 
-I needed a two-column layout with a scrolling sidebar to publish my [code cheatsheets](http://karloespiritu.com/cheatsheets){:target="_blank"}, 
+I needed a two-column layout with a scrolling sidebar to publish and display my various [data science projects](https://github.com/Robert-Zacchigna/DSC-680_Portfolio){:target="_blank"}, 
 and found the [Hyde](http://hyde.getpoole.com) Jekyll theme to be a good starting theme. I customised the theme to make 
 it look great in black background and changed the sidebar to display scrolling content. I created this theme because 
 I can't seem to find any good Jekyll theme with a master-detail layout. Hopefully, someone will find this useful as well in their own projects.
@@ -15,8 +15,8 @@ I can't seem to find any good Jekyll theme with a master-detail layout. Hopefull
 
 Poole is the Jekyll Butler, serving as a foundation for creating Jekyll themes. Poole-based themes, such as BlackDoc here, include the following:
 
-* Complete Jekyll setup included (layouts, config, <a href="{{ site.baseurl }}404">404</a>{:target="_blank"},
-<a href="{{ site.baseurl }}atom.xml">RSS Feed</a>{:target="_blank"}, posts, and <a href="{{ site.baseurl }}about">example page</a>{:target="_blank"})
+* Complete Jekyll setup included (layouts, config, <a href="{{ site.baseurl }}/404">404</a>{:target="_blank"},
+<a href="{{ site.baseurl }}/atom.xml">RSS Feed</a>{:target="_blank"}, posts, and <a href="{{ site.baseurl }}/about">example page</a>{:target="_blank"})
 * Mobile friendly design and development
 * Easily scalable text and component sizing with `rem` units in the CSS
 * Support for a wide gamut of HTML elements
