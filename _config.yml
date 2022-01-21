@@ -4,10 +4,10 @@ highlighter:      rouge
 remote_theme:     Robert-Zacchigna/BlackDoc
 
 # Setup
-title:            BlackDoc
-tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
-url:              https://github.com/Robert-Zacchigna/BlackDoc
+title:            Nakamoto LOL
+tagline:          Bitcoin maximalism intersects with nerdcore rap
+description:      "Bitcoin maximalist content and weird sci fi nerd rap to go along with it."
+url:              http://nakamoto.lol
 baseurl:          "/"
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
@@ -15,8 +15,8 @@ baseurl:          "/"
 timezone: America/Chicago
 
 author:
-  name:           Robert Zacchigna
-  url:            https://github.com/Robert-Zacchigna/
+  name:           Chelsea Palmer
+  url:            http://chelseakpalmer.com
 
 paginate:         5
 # paginate_path:    '/page:num'
